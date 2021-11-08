@@ -1,1 +1,39 @@
-# aset14.github.io
+/tantan/
+/tantanapp/
+/michat/
+/michatapp/
+||im-gb.com^$important
+@@||queensex.fun^$client='192.168.44.15'
+@@||swupdate.openvpn.org^$client='192.168.44.15'
+@@||openvpn.org^$client='192.168.44.15'
+@@||graph.facebook.com^$important
+@@||b-graph.facebook.com^$important
+||pln.com^$important
+||internet-census.org^$important
+/onion/
+/bokep/
+/jav/
+/xnxx/
+/proxy/
+@@||openvpn.net^$important
+@@||swupdate.openvpn.org^$important
+||luxury138.link^$important
+#@@||config.unityads.unity3d.com^$client='192.168.44.21'
+#@@||stat2.openinstall.io^$client='192.168.44.21'
+@@||googleads.g.doubleclick.net^$client='192.168.44.21'
+#@@||webview.unityads.unity3d.com^$client='192.168.44.21'
+#@@||publisher-config.unityads.unity3d.com^$client='192.168.44.21'
+||xnxx32.com^$important
+#@@||stat2.openinstall.io^$important
+#@@||app-measurement.com^$important
+@@||app-measurement.com^$client='192.168.44.21'
+@@||stat2.openinstall.io^$client='192.168.44.21'
+@@||config.unityads.unity3d.com^$client='192.168.44.21'
+@@||webview.unityads.unity3d.com^$client='192.168.44.21'
+@@||publisher-config.unityads.unity3d.com^$client='192.168.44.21'
+||photos.googleapis.com^$client='HP Aldi'
+||sina.cn^$important
+@@||vimeo.com^$important
+#@@||graph.instagram.com^$important
+#@@||graph.facebook.com^$important
+@@||publikasi.dinus.ac.id^$client='ACER Q'
