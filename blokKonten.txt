@@ -3,7 +3,7 @@
 /michat/
 /michatapp/
 ||im-gb.com^$important
-@@||queensex.fun^$client='192.168.44.15'
+||queensex.fun^$important
 @@||swupdate.openvpn.org^$client='192.168.44.15'
 @@||openvpn.org^$client='192.168.44.15'
 @@||graph.facebook.com^$important
@@ -31,9 +31,9 @@
 @@||config.unityads.unity3d.com^$client='192.168.44.21'
 @@||webview.unityads.unity3d.com^$client='192.168.44.21'
 @@||publisher-config.unityads.unity3d.com^$client='192.168.44.21'
-||photos.googleapis.com^$client='HP Aldi'
+||photos.googleapis.com^$important
 ||sina.cn^$important
 @@||vimeo.com^$important
 #@@||graph.instagram.com^$important
 #@@||graph.facebook.com^$important
-@@||publikasi.dinus.ac.id^$client='ACER Q'
+
