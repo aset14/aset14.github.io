@@ -2,6 +2,7 @@
 /tantanapp/
 /michat/
 /michatapp/
+||paulgo.io^$important
 ||thehiddenwiki.org^$important
 ||duckduckgo.com^$important
 /searx/
