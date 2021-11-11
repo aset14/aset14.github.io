@@ -3,6 +3,8 @@
 /michat/
 /michatapp/
 ||paulgo.io^$important
+||www.gruble.de^$important
+||swag.pw^$important
 ||thehiddenwiki.org^$important
 ||duckduckgo.com^$important
 /searx/
