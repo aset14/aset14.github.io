@@ -2,6 +2,9 @@
 /tantanapp/
 /michat/
 /michatapp/
+||thehiddenwiki.org^$important
+||duckduckgo.com^$important
+/searx/
 ||172.104.41.68^$important
 ||139.162.37.37^$important
 ||im-gb.com^$important
