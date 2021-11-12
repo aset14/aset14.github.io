@@ -3,6 +3,7 @@
 /michat/
 /michatapp/
 ||paulgo.io^$important
+||img.kotakputih.casa^$important
 ||www.gruble.de^$important
 ||swag.pw^$important
 ||thehiddenwiki.org^$important
