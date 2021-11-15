@@ -2,6 +2,7 @@
 /tantanapp/
 /michat/
 /michatapp/
+||wholeactualnewz.com^$important
 ||paulgo.io^$important
 ||img.kotakputih.casa^$important
 ||www.gruble.de^$important
