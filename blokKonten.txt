@@ -2,9 +2,11 @@
 /tantanapp/
 /michat/
 /michatapp/
+/binomo/
 ||binomo-website.com^$important
 ||binomo.com^$important
 ||binomo.co.id^$important
+||binomo-web.com^$important
 ||wholeactualnewz.com^$important
 ||paulgo.io^$important
 ||img.kotakputih.casa^$important
