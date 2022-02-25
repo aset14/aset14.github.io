@@ -1,3 +1,10 @@
+#||example.org^ – Blokir akses ke example.org dan seluruh subdomainnya
+#@@||example.org^ – Buka blokir akses ke domain example.orf dan seluruh subdomainnya
+#127.0.0.1 example.org – AdGuard Home sekarang akan mengembalikan alamat 127.0.0.1 untuk domain example.org (namun tidak subdomainnya)
+#! Komentar di sini – hanya sebuah komentar
+#Juga sebuah komentar – hanya sebuah komentar
+#/REGEX/ – blokir akses ke domain yang cocok dengan example_regex_meaning
+
 #UPDATE-260222
 @@||app-measurement.com^$important
 @@||config.unityads.unity3d.com^$important
@@ -22,8 +29,12 @@
 ||bxxi.wapsite.info^$important
 ||hidester.com^$important
 ||brazzers.vip^$client='Bg Arman'
-||yandex.ru^$client='Bg Arman'
-||yandex.net^$client='Bg Arman'
+||yandex.com^$important
+||yandex.ru^$important
+||yandex.net^$important
+@@||yandex.com^$client='Laptop Acer'
+@@||yandex.ru^$client='Laptop Acer'
+@@||yandex.net^$client='Laptop Acer'
 /colmek/
 /ngentot/
 /memek/
