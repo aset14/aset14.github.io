@@ -4,7 +4,6 @@
 #! Komentar di sini – hanya sebuah komentar
 #Juga sebuah komentar – hanya sebuah komentar
 #/REGEX/ – blokir akses ke domain yang cocok dengan example_regex_meaning
-
 #UPDATE-260222
 @@||app-measurement.com^$important
 @@||config.unityads.unity3d.com^$important
