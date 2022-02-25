@@ -1,4 +1,4 @@
-#UPDATE 260222
+#UPDATE-260222
 @@||app-measurement.com^$important
 @@||config.unityads.unity3d.com^$important
 @@||publisher-config.unityads.unity3d.com^$important
