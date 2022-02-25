@@ -1,3 +1,36 @@
+#UPDATE 260222
+@@||app-measurement.com^$important
+@@||config.unityads.unity3d.com^$important
+@@||publisher-config.unityads.unity3d.com^$important
+@@||stat2.openinstall.io^$important
+@@||googleads.g.doubleclick.net^$important
+@@||auction.unityads.unity3d.com^$important
+@@||android.bugly.qq.com^$client='HP ku'
+||tracker.xpeer.xyz^$important
+#||www1.xpeer.xyz^$important
+||c.disquscdn.com^$important
+||app.adjust.com^$important
+@@||app.adjust.com^$client='HP ku'
+@@||app.adjust.world^$client='HP ku'
+@@||chat.sociomile.com^$important
+@@||webview.unityads.unity3d.com^$client='HP ku'
+@@||auiopt.unityads.unity3d.com^$important
+@@||queensex.icu^$client='Laptop Acer'
+||e.tstng.net^$important
+@@||indoxxx.cc^$client='Laptop Acer'
+||yandex.com^$client='Bg Arman'
+||bxxi.wapsite.info^$important
+||brazzers.vip^$client='Bg Arman'
+||yandex.ru^$client='Bg Arman'
+/colmek/
+/ngentot/
+/memek/
+/pepek/
+/kontol/
+/18+/
+/17+/
+||colmekenak168.blogspot.com^$client='Bg Arman'
+#OLD
 /tantan/
 /tantanapp/
 /michat/
