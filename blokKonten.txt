@@ -65,7 +65,7 @@
 /onion/
 #/bokep/
 /jav/
-/xnxx/
+#/xnxx/
 /proxy/
 @@||openvpn.net^$important
 @@||swupdate.openvpn.org^$important
