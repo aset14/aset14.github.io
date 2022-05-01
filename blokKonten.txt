@@ -28,8 +28,8 @@
 @@||yandex.com^$client='Laptop Acer'
 @@||yandex.ru^$client='Laptop Acer'
 @@||yandex.net^$client='Laptop Acer'
-/colmek/
-/ngentot/
+#/colmek/
+#/ngentot/
 /memek/
 /pepek/
 /kontol/
@@ -63,7 +63,7 @@
 ||pln.com^$important
 ||internet-census.org^$important
 /onion/
-/bokep/
+#/bokep/
 /jav/
 /xnxx/
 /proxy/
