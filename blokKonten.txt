@@ -5,15 +5,11 @@
 @@||stat2.openinstall.io^$important
 @@||googleads.g.doubleclick.net^$important
 @@||auction.unityads.unity3d.com^$important
-@@||android.bugly.qq.com^$client='HP ku'
 ||tracker.xpeer.xyz^$important
 #||www1.xpeer.xyz^$important
 ||c.disquscdn.com^$important
 ||app.adjust.com^$important
-@@||app.adjust.com^$client='HP ku'
-@@||app.adjust.world^$client='HP ku'
 @@||chat.sociomile.com^$important
-@@||webview.unityads.unity3d.com^$client='HP ku'
 @@||auiopt.unityads.unity3d.com^$important
 @@||queensex.icu^$client='Laptop Acer'
 ||e.tstng.net^$important
@@ -88,4 +84,25 @@
 @@||vimeo.com^$important
 #@@||graph.instagram.com^$important
 #@@||graph.facebook.com^$important
-
+/slot/
+/spin/
+/bet/
+/maxwin/
+/maxbet/
+/sultan/
+/macau/
+/onion/
+/jackpot/
+/proxy/
+/gacor/
+/zeus/
+/vpn/
+/bokep/
+#/porn/
+/jav/
+#/xnxx/
+||www.blockaway.net^
+||hide.me^
+||bandarbokep.fun^$important
+@@||b-graph-fallback.facebook.com^$important
+@@||b-graph.facebook.com^$important
