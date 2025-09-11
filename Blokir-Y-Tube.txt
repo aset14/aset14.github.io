@@ -50,3 +50,15 @@
 ||googlevideo.com/api/stats/qoe^
 ||googlevideo.com/api/stats/playback^
 ||googlevideo.com/api/stats/watchtime^
+
+! Blokir iklan YouTube Mobile yang trigger Google Play
+||youtubei.googleapis.com/pagead/^
+||youtubei.googleapis.com/api/stats/ads^
+||youtube.com/pagead/^
+||pagead2.googlesyndication.com^
+||googleads.g.doubleclick.net^
+
+! Opsional: cegah auto-open Play Store dari iklan
+||youtube.com/redirect?event=ad*^
+||youtubei.googleapis.com/youtubei/v1/next?*ad*^
+
