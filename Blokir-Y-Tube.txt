@@ -109,3 +109,10 @@
 ||youtubei.googleapis.com/pagead/^
 ||youtubei.googleapis.com/api/stats/ads^
 ||youtube.com/pagead/^
+||google.*.*/pagead/lvz^
+||www.google.*.*/pagead/lvz^
+||google.*.*/pagead/viewthroughconversion/^
+||www.google.*.*/pagead/viewthroughconversion/^
+||youtubei.googleapis.com/youtubei/v1/log_event^
+
+||google.*.*/pagead/lvz^
