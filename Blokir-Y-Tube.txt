@@ -67,3 +67,7 @@
 ||youtube.com/redirect?event=ad*^
 ||youtubei.googleapis.com/youtubei/v1/next?*ad*^
 
+! === Blokir My Ad Center ===
+||myadcenter.google.com^
+||myadcenter-pa.clients6.google.com^
+||myadcenter-pa.googleapis.com^
