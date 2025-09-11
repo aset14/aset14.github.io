@@ -71,3 +71,12 @@
 ||myadcenter.google.com^
 ||myadcenter-pa.clients6.google.com^
 ||myadcenter-pa.googleapis.com^
+
+! === Blokir iklan YouTube → Game Browser / External Redirect ===
+||youtube.com/redirect?event=ad*^
+||youtube.com/redirect?q=http*^
+||googleadservices.com/pagead/^
+||googleadservices.com/pagead/aclk*^
+||googleadservices.com/pagead/clk*^
+||*.doubleclick.net/pcs/click?*^
+||pagead2.googlesyndication.com/pagead/clk*^
