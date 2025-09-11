@@ -1,0 +1,71 @@
+! === Google Ads main endpoints ===
+||googleads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||adservice.google.com^
+||adservice.google.co.*^
+||g.doubleclick.net^
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+
+! === Pagead requests (all Google domains, including google.co.id) ===
+||google.*.*/pagead/^
+||google.*.*/pagead/lvz^
+||www.google.*.*/pagead/^
+||www.google.*.*/pagead/lvz^
+
+! === YouTube ad/telemetry endpoints ===
+||youtube.com/pagead/^
+||youtube.com/get_midroll_info^
+||youtube.com/api/stats/ads^
+||youtube.com/api/stats/atr^
+||youtube.com/api/stats/playback^
+||youtube.com/api/stats/watchtime^
+||youtube.com/api/stats/qoe^
+||youtube.com/api/stats/streamingstats^
+||youtube.com/api/stats/log_interaction^
+||youtube.com/api/stats/video_endscreen^
+||youtube.com/api/stats/report^
+||youtube.com/api/stats/engagement^
+||youtube.com/api/stats/error^
+||youtube.com/api/stats/survey^
+||youtube.com/api/stats/feedback^
+
+! === YouTube internal API (mobile/TV apps) ===
+||youtubei.googleapis.com/pagead/^
+||youtubei.googleapis.com/api/stats/ads^
+||youtubei.googleapis.com/api/stats/atr^
+||youtubei.googleapis.com/api/stats/playback^
+||youtubei.googleapis.com/api/stats/watchtime^
+||youtubei.googleapis.com/api/stats/qoe^
+||youtubei.googleapis.com/api/stats/streamingstats^
+||youtubei.googleapis.com/api/stats/log_interaction^
+||youtubei.googleapis.com/api/stats/report^
+||youtubei.googleapis.com/api/stats/engagement^
+||youtubei.googleapis.com/api/stats/error^
+||youtubei.googleapis.com/api/stats/survey^
+||youtubei.googleapis.com/api/stats/feedback^
+
+! === Googlevideo telemetry ===
+||googlevideo.com/api/stats/ads^
+||googlevideo.com/api/stats/qoe^
+||googlevideo.com/api/stats/playback^
+||googlevideo.com/api/stats/watchtime^
+
+! === YouTube / Googlevideo subdomains from blocklists ===
+||*.sn-*.googlevideo.com^
+||manifest.googlevideo.com^
+||r8.sn-4g5ednzz.googlevideo.com^
+||r6.sn-4g5ednll.googlevideo.com^
+||r5.sn-h0jeenek.googlevideo.com^
+
+! wildcard Googlevideo domains
+||6.googlevideo.com^
+||7.googlevideo.com^
+||d.googlevideo.com^
+||e.googlevideo.com^
+||k.googlevideo.com^
+||l.googlevideo.com^
+||r.googlevideo.com^
+||s.googlevideo.com^
+||y.googlevideo.com^
+||z.googlevideo.com^
