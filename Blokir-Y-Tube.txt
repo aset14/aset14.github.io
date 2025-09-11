@@ -7,7 +7,7 @@
 ||pubads.g.doubleclick.net^
 ||securepubads.g.doubleclick.net^
 
-! === Pagead requests (all Google domains, including google.co.id) ===
+! === Pagead requests (Google domains, incl. google.co.id) ===
 ||google.*.*/pagead/^
 ||google.*.*/pagead/lvz^
 ||www.google.*.*/pagead/^
@@ -30,17 +30,23 @@
 ||youtube.com/api/stats/survey^
 ||youtube.com/api/stats/feedback^
 
-! === YouTube internal API (mobile/TV apps) ===
-! ⚠️ Hanya blokir endpoint iklan, jangan semua!
+! === YouTube internal API (mobile & kids) ===
 ||youtubei.googleapis.com/pagead/^
 ||youtubei.googleapis.com/api/stats/ads^
+||youtubei.googleapis.com/api/stats/atr^
+||youtubei.googleapis.com/api/stats/playback^
+||youtubei.googleapis.com/api/stats/watchtime^
+||youtubei.googleapis.com/api/stats/qoe^
+||youtubei.googleapis.com/api/stats/streamingstats^
+||youtubei.googleapis.com/api/stats/log_interaction^
+||youtubei.googleapis.com/api/stats/report^
+||youtubei.googleapis.com/api/stats/engagement^
+||youtubei.googleapis.com/api/stats/error^
+||youtubei.googleapis.com/api/stats/survey^
+||youtubei.googleapis.com/api/stats/feedback^
 
 ! === Googlevideo telemetry ===
 ||googlevideo.com/api/stats/ads^
 ||googlevideo.com/api/stats/qoe^
 ||googlevideo.com/api/stats/playback^
 ||googlevideo.com/api/stats/watchtime^
-
-! === Dihapus:
-! ❌ Jangan blokir *.sn-*.googlevideo.com dan wildcard googlevideo.com
-! (karena itu server streaming video YouTube Mobile)
