@@ -80,3 +80,32 @@
 ||googleadservices.com/pagead/clk*^
 ||*.doubleclick.net/pcs/click?*^
 ||pagead2.googlesyndication.com/pagead/clk*^
+
+
+! === Blokir redirect iklan YouTube → Google Ads / Game Browser / Play Store ===
+
+! Blokir pagead/lvz (iklan yang sering muncul di YouTube Mobile & Web)
+||google.*.*/pagead/lvz^
+||www.google.*.*/pagead/lvz^
+
+! Blokir path pagead umum
+||google.*.*/pagead/^
+||www.google.*.*/pagead/^
+||pagead2.googlesyndication.com^
+||googleads.g.doubleclick.net^
+
+! Blokir klik iklan keluar YouTube (game browser, Play Store, dsb.)
+||googleadservices.com/pagead/^
+||googleadservices.com/pagead/aclk*^
+||googleadservices.com/pagead/clk*^
+||pagead2.googlesyndication.com/pagead/clk*^
+||*.doubleclick.net/pcs/click?*^
+
+! Blokir redirect event dari YouTube
+||youtube.com/redirect?event=ad*^
+||youtube.com/redirect?q=http*^
+
+! Blokir API YouTube untuk iklan di aplikasi
+||youtubei.googleapis.com/pagead/^
+||youtubei.googleapis.com/api/stats/ads^
+||youtube.com/pagead/^
