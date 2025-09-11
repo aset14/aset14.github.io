@@ -57,6 +57,11 @@
 ||youtube.com/pagead/^
 ||pagead2.googlesyndication.com^
 ||googleads.g.doubleclick.net^
+||youtube.com/redirect?event=ad*^
+||youtubei.googleapis.com/youtubei/v1/next?*ad*^
+||youtubei.googleapis.com/get_midroll_info^
+||youtubei.googleapis.com/api/stats/playback^
+||youtubei.googleapis.com/api/stats/watchtime^
 
 ! Opsional: cegah auto-open Play Store dari iklan
 ||youtube.com/redirect?event=ad*^
