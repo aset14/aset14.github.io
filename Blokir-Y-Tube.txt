@@ -31,19 +31,9 @@
 ||youtube.com/api/stats/feedback^
 
 ! === YouTube internal API (mobile/TV apps) ===
+! ⚠️ Hanya blokir endpoint iklan, jangan semua!
 ||youtubei.googleapis.com/pagead/^
 ||youtubei.googleapis.com/api/stats/ads^
-||youtubei.googleapis.com/api/stats/atr^
-||youtubei.googleapis.com/api/stats/playback^
-||youtubei.googleapis.com/api/stats/watchtime^
-||youtubei.googleapis.com/api/stats/qoe^
-||youtubei.googleapis.com/api/stats/streamingstats^
-||youtubei.googleapis.com/api/stats/log_interaction^
-||youtubei.googleapis.com/api/stats/report^
-||youtubei.googleapis.com/api/stats/engagement^
-||youtubei.googleapis.com/api/stats/error^
-||youtubei.googleapis.com/api/stats/survey^
-||youtubei.googleapis.com/api/stats/feedback^
 
 ! === Googlevideo telemetry ===
 ||googlevideo.com/api/stats/ads^
@@ -51,21 +41,6 @@
 ||googlevideo.com/api/stats/playback^
 ||googlevideo.com/api/stats/watchtime^
 
-! === YouTube / Googlevideo subdomains from blocklists ===
-||*.sn-*.googlevideo.com^
-||manifest.googlevideo.com^
-||r8.sn-4g5ednzz.googlevideo.com^
-||r6.sn-4g5ednll.googlevideo.com^
-||r5.sn-h0jeenek.googlevideo.com^
-
-! wildcard Googlevideo domains
-||6.googlevideo.com^
-||7.googlevideo.com^
-||d.googlevideo.com^
-||e.googlevideo.com^
-||k.googlevideo.com^
-||l.googlevideo.com^
-||r.googlevideo.com^
-||s.googlevideo.com^
-||y.googlevideo.com^
-||z.googlevideo.com^
+! === Dihapus:
+! ❌ Jangan blokir *.sn-*.googlevideo.com dan wildcard googlevideo.com
+! (karena itu server streaming video YouTube Mobile)
