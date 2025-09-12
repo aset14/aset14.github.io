@@ -136,3 +136,16 @@
 ||m.youtube.com/api/cookie^
 ||m.youtube.com/api/privacy^
 
+! Title: Fanboy CookieMonster (YouTube only, converted)
+! Description: Hanya blokir popup consent, cookie, dan privacy YouTube
+! Last modified: 2025-09-13
+
+||consent.youtube.com^
+||www.youtube.com/consent^
+||www.youtube.com/api/consent^
+||www.youtube.com/api/cookie^
+||www.youtube.com/api/privacy^
+||m.youtube.com/consent^
+||m.youtube.com/api/consent^
+||m.youtube.com/api/cookie^
+||m.youtube.com/api/privacy^
