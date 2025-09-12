@@ -114,5 +114,10 @@
 ||google.*.*/pagead/viewthroughconversion/^
 ||www.google.*.*/pagead/viewthroughconversion/^
 ||youtubei.googleapis.com/youtubei/v1/log_event^
-
 ||google.*.*/pagead/lvz^
+
+#Tambahan
+||youtube.com/pagead/^
+||youtube.com/api/stats/ads^
+||youtubei.googleapis.com/pagead/^
+||youtubei.googleapis.com/api/stats/ads^
