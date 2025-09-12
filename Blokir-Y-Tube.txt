@@ -121,3 +121,18 @@
 ||youtube.com/api/stats/ads^
 ||youtubei.googleapis.com/pagead/^
 ||youtubei.googleapis.com/api/stats/ads^
+
+! Title: YouTube Mobile Distractions + Cookie Banner Blocklist (Network rules)
+! Description: Blokir host terkait popup cookies, promo app, dan banner di YouTube Mobile
+! Last modified: 2025-09-13
+
+||consent.youtube.com^
+||m.youtube.com/api/promo^
+||m.youtube.com/api/apps^
+||m.youtube.com/api/recommendations^
+||m.youtube.com/api/consent^
+||m.youtube.com/api/installapp^
+||m.youtube.com/api/popup^
+||m.youtube.com/api/cookie^
+||m.youtube.com/api/privacy^
+
