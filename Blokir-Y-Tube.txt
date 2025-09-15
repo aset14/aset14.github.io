@@ -149,3 +149,31 @@
 ||m.youtube.com/api/consent^
 ||m.youtube.com/api/cookie^
 ||m.youtube.com/api/privacy^
+
+! Title: YouTube Ads Blocklist (AdGuard Home)
+! Last updated: 2025-09-13
+
+! === Google Ads & Tracking ===
+||googleads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||pubads.g.doubleclick.net^
+
+! === YouTube Ads APIs ===
+||youtube.com/api/stats/ads^
+||youtube.com/get_midroll_*
+||youtube.com/get_video_info?*adformat*
+||youtube.com/ptracking^
+||youtube.com/pagead/*
+||youtube.com/pcs/activeview^
+||youtube.com/api/ads/*
+
+! === YouTube Video Ad Hosts (media/stream) ===
+||r*.googlevideo.com/*&oad^
+||r*.googlevideo.com/*&ctier=L^
+||r*.googlevideo.com/videoplayback*oad^
+||r*.googlevideo.com/videoplayback*ctier=L^
+
+! === Misc tracking beacons ===
+||s.youtube.com/api/stats/ads^
+||s.youtube.com/api/stats/watchtime?*adformat*
+
