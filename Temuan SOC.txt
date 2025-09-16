@@ -36,6 +36,7 @@
 ||decompression.cloudnestde.com.de^$important
 ||reallocate.cloudnestde.com.de^$important
 ||barrel.cloudnestde.com.de^$important
+||h8x6h.top^$important
 ||telegraphist.cloudnestde.com.de^$important
 ||manumission.cloudnestde.com.de^$important
 ||weightlifter.cloudnestde.com.de^$important
